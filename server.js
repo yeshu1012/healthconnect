@@ -21,13 +21,3 @@ app.get("/", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
-🚀 After that
-Click Commit changes (green button)
-Go to Render → wait 10–20 sec
-Refresh your live link
-💡 Important
-❌ Don’t delete express setup
-❌ Don’t delete app.listen
-✅ Only change res.send()
-
-If you want, next I can help you make it look like a real app UI (login page, navbar, colors, animations) 😎
